@@ -1,4 +1,4 @@
-package com.example.fooddelivery;
+package com.nibir.fooddelivery;
 
 import android.os.Bundle;
 

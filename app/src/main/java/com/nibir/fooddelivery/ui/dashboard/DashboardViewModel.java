@@ -1,4 +1,4 @@
-package com.example.fooddelivery.ui.dashboard;
+package com.nibir.fooddelivery.ui.dashboard;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
