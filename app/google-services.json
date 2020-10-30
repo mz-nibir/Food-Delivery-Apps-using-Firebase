@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "338481117066",
-    "firebase_url": "https://food-delivery-20917.firebaseio.com",
-    "project_id": "food-delivery-20917",
-    "storage_bucket": "food-delivery-20917.appspot.com"
+    "project_number": "229203292187",
+    "firebase_url": "https://food-delivery-7fa7c.firebaseio.com",
+    "project_id": "food-delivery-7fa7c",
+    "storage_bucket": "food-delivery-7fa7c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:338481117066:android:9c4e58033e8cd27ff97a73",
+        "mobilesdk_app_id": "1:229203292187:android:43c47de04543fffa6788be",
         "android_client_info": {
           "package_name": "com.nibir.fooddelivery"
         }
       },
       "oauth_client": [
         {
-          "client_id": "338481117066-317s1l0d2741g2vel3dq8lj9o3bs9c78.apps.googleusercontent.com",
+          "client_id": "229203292187-4cfg9u231c3ren7v4f7n7sqmsnb3698j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBuzI3Kd-e32gyhkkBxYqrQMmGpUrh41BY"
+          "current_key": "AIzaSyCPwhklj83ZuKNPTJFpXkjibry-Sq47sWY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "338481117066-317s1l0d2741g2vel3dq8lj9o3bs9c78.apps.googleusercontent.com",
+              "client_id": "229203292187-4cfg9u231c3ren7v4f7n7sqmsnb3698j.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
